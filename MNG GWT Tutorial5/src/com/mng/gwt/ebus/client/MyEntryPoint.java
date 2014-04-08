@@ -22,6 +22,10 @@ public class MyEntryPoint implements EntryPoint {
 		final Button btn = new Button("Make me an offer");
 		final Shark shark = new Kevin();
 		
+		
+		
+		
+		
 		RootPanel.get().add(btn);
 		RootPanel.get().add(el);
 		
